@@ -1,0 +1,6 @@
+[opt]
+Default=optLCD
+[Reminder]
+R=false
+[Run]
+P=False
